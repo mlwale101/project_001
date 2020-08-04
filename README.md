@@ -4,10 +4,8 @@ create a House Price Prediction model using tensorflow
 ## Dependencies
 * python(3.*)
 * jupyter
-* pandas
 * tensorflow
-* tensorflowhub
-* pandas
+* scikit-learn
 * numpy
 
 ## Quick Start 
