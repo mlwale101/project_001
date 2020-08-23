@@ -1,10 +1,9 @@
 # House Price Prediction
-create a House Price Prediction model using tensorflow 
+create a House Price Prediction model using scikit-learn
 
 ## Dependencies
 * python(3.*)
 * jupyter
-* tensorflow
 * scikit-learn
 * numpy
 
